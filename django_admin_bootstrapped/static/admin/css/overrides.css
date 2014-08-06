@@ -218,4 +218,12 @@ td.action-checkbox {
     margin-bottom: 5em;
 }
 
+.results-side-panel .actions span.all,
+.results-side-panel .actions span.action-counter,
+.results-side-panel .actions span.clear,
+.results-side-panel .actions span.question {
+    font-size: 0.75em;
+    margin: 0 0.5em;
+    display: none;
+}
 
